@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# резервные копии ноутбука
+*.ipynb.bak*
+
+# рабочие дампы
+*_dump.txt
+make_report.py
+
+homework3.pdf
+
+report_assets/
+
+report.pdf
